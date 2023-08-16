@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836255935951",
+    "project_id": "bignotes-d270d",
+    "storage_bucket": "bignotes-d270d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836255935951:android:1e87c275511a54539676ba",
+        "android_client_info": {
+          "package_name": "com.app.bignotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836255935951-vtur74cqphahkdkeo9o8vdcn6geijd5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.bignotes",
+            "certificate_hash": "3567507b09bd8836f9e61c5fff4649693184dc4d"
+          }
+        },
+        {
+          "client_id": "836255935951-qni5vfg4d26viv6n58c8p17tlooq815q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAHclDW0fwjpOZeswgTLJpt5e6hZXr0eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836255935951-qni5vfg4d26viv6n58c8p17tlooq815q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

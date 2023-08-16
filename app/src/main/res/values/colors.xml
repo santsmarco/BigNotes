@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_50">#F3E5F5</color> <!-- Cor de fundo mais clara -->
+    <color name="purple_200">#E040FB</color> <!-- Cor de destaque roxa mais clara -->
+    <color name="purple_500">#9C27B0</color> <!-- Cor principal roxa -->
+    <color name="purple_700">#7B1FA2</color> <!-- Tom mais escuro da cor principal -->
+
+</resources>

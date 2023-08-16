@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BigNotes" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item> <!-- Cor principal roxa -->
+        <item name="colorPrimaryDark">@color/purple_700</item> <!-- Tom mais escuro da cor principal -->
+        <item name="colorAccent">@color/purple_200</item> <!-- Cor de destaque roxa mais clara -->
+        <item name="android:textColorPrimary">#3D3D3D</item> <!-- Cor do texto principal -->
+        <item name="android:textColorSecondary">#3D3D3D</item> <!-- Cor do texto secundário -->
+        <item name="android:windowBackground">@color/purple_50</item> <!-- Cor de fundo mais clara -->
+    </style>
+
+    <style name="ProgressBarStyle" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:indeterminateTint">@color/white</item>
+        <item name="android:progressTint">@color/white</item>
+        <item name="android:secondaryProgressTint">@color/white</item>
+    </style>
+
+    <style name="Theme.BigNotes" parent="Base.Theme.BigNotes" />
+</resources>
